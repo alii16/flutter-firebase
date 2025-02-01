@@ -17,9 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<div align="right">
+<div class="flex align-items-center" align="center">
     <img src="assets/preview/1.jpg" width="100">
     <img src="assets/preview/2.jpg" width="100">
     <img src="assets/preview/3.jpg" width="100">
-    <img src="assets/preview/4.jog" width="100">
+    <img src="assets/preview/4.jpg" width="100">
 </div>
