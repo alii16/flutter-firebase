@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<div class="flex align-items-center" align="center">
+<div class="flex align-items-center gap-10" align="center">
     <img src="assets/preview/1.jpg" width="100">
     <img src="assets/preview/2.jpg" width="100">
     <img src="assets/preview/3.jpg" width="100">
